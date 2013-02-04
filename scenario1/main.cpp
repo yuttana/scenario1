@@ -13,9 +13,10 @@ int minus(int a, int b)
 
 int main()
 {
-	printf("Hello World2\n");
-	printf("Hello World4\n");
+	printf("Hello World\n");
+	printf("Hello Nation\n");
 	printf("Hello World %d\n", sum(5, 10));
-	printf("Hello World %d\n", minus(5, 10));
+	printf("Hello World2\n");
+	printf("Hello Nation2\n");
 	return 0;
 }

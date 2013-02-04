@@ -11,9 +11,15 @@ int minus(int a, int b)
 	return a - b;
 }
 
+int multiply(int a, int b)
+{
+	return a * b;
+}
+
 int main()
 {
 	printf("Hello World %d\n", sum(5, 10));
 	printf("Hello World %d\n", minus(5, 10));
+	printf("Hello World %d\n", multiply(5, 10));
 	return 0;
 }
